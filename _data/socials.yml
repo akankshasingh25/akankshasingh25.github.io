@@ -2,10 +2,10 @@
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
-academia_edu: # your organization and your username Ex. https://organization.academia.edu/UserName
-  organization: cerai # your organization as appears in the subdomain
-  username:  akanksha-singh # your username
-  url: https://cerai.iitm.ac.in/people/akanksha-singh
+# academia_edu:
+#   url: https://cerai.iitm.ac.in/people/akanksha-singh # your organization and your username Ex. https://organization.academia.edu/UserName
+#   organization: cerai.iitm.ac.in # your organization as appears in the subdomain
+#   username: akanksha-singh # your username
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
@@ -55,3 +55,4 @@ x_username: notakanshasingh # your X handle
   # logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
   # title: Custom Social
   # url: https://www.alberteinstein.com/
+cv: /assets/pdf/AkankshaSingh_CV.pdf
