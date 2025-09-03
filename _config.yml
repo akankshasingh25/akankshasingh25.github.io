@@ -46,12 +46,6 @@ bib_search: true
 navbar_links:
   - title: "About"
     url: /about/
-  - title: "News"
-    url: /news/
-  - title: "Publications"
-    url: /publications/
-  - title: "Projects"
-    url: /projects/
   - title: "CV"
     url: /cv/
 
@@ -146,9 +140,11 @@ collections:
     defaults:
       layout: post
     output: true
-  projects:
-    output: true
+  # # projects:
+  #   output: true
   publications:
+    defaults:
+      layout: post
     output: true
 
 # -----------------------------------------------------------------------------

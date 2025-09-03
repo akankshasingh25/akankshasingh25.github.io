@@ -17,7 +17,7 @@ profile:
   #   <img src="/assets/img/CeRAI_logo.png" alt="CeRAI Logo" style="width:100px; height:auto, align:center">
   #   </p>
 
-# selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
