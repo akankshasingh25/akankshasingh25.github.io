@@ -4,38 +4,33 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+          title: "Projects",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "You can download the CV from pdf button.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "news-looking-for-phd-opportiunities-in-ai-ml-starting-fall-2026-please-reach-out-if-you-have-any-openings",
+        },{id: "news-looking-for-phd-opportiunities-in-ai-ml-starting-fall-2026-please-reach-out-if-you-have-any-openings",
           title: 'Looking for PhD opportiunities in AI/ML starting Fall 2026. Please reach out if...',
           description: "",
           section: "News",},{id: "projects-project-1",
@@ -44,11 +39,18 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/sample-project.html";
             },},{
-        id: 'social-email',
-        title: 'email',
+        id: 'social-scholar',
+        title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%61%6B%61%6E%6B%73%68%61%73%69%6E%67%68.%32%35%34%30@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+          window.open("https://scholar.google.com/citations?user=jninL9oAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/-singh-akanksha", "_blank");
         },
       },{
         id: 'social-github',
@@ -58,32 +60,11 @@ ninja.data = [{
           window.open("https://github.com/akankshasingh25", "_blank");
         },
       },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/singh-akanksha", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=jninL9oAAAAJ", "_blank");
-        },
-      },{
         id: 'social-x',
         title: 'X',
         section: 'Socials',
         handler: () => {
           window.open("https://twitter.com/notakanshasingh", "_blank");
-        },
-      },{
-        id: 'social-cv',
-        title: 'Cv',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
         },
       },{
       id: 'light-theme',
