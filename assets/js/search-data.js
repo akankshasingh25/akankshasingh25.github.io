@@ -9,21 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "Publications",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-cv",
+  },{id: "nav-cv",
           title: "CV",
           description: "You can download the CV from pdf button.",
           section: "Navigation",
@@ -33,12 +19,7 @@ ninja.data = [{
         },{id: "news-looking-for-phd-opportiunities-in-ai-ml-starting-fall-2026-please-reach-out-if-you-have-any-openings",
           title: 'Looking for PhD opportiunities in AI/ML starting Fall 2026. Please reach out if...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/sample-project.html";
-            },},{
+          section: "News",},{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
