@@ -7,20 +7,23 @@ first_name: Akanksha
 middle_name:
 last_name: Singh
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Best way to reach me is via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  As a researcher dedicated to leveraging machine learning to propose data-driven solutions to real-world challenges, I specialize in deep learning focusing on vision and speech modalities. Currently working as Post-Baccalaureate Fellow at CeRAI, IIT Madras under the supervision of Prof. B. Ravindran. Previously I have worked at IAB Lab, IIt Jodhpur under Prof. Richa Singh and Prof. Mayank Vatsa for my external Masters Thesis. I am an avid quizzer and a committed sportsperson.
+  I am a researcher dedicated to leveraging machine learning to propose data-driven solutions to real-world challenges. 
+  My work focuses on deep learning for vision and speech modalities. 
+  Currently, I am a Post-Baccalaureate Fellow at CeRAI, IIT Madras under the supervision of Prof. B. Ravindran. 
+  Previously, I worked at IAB Lab, IIT Jodhpur under Prof. Richa Singh and Prof. Mayank Vatsa for my external Master's Thesis. 
+  Outside research, I am an avid quizzer and committed sportsperson.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: machine learning, deep learning, computer vision, speech processing, responsible AI # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://akankshasingh25.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
@@ -52,6 +55,24 @@ search_enabled: true
 socials_in_search: true
 posts_in_search: true
 bib_search: true
+
+# Navbar links
+navbar_links:
+  - title: "About"
+    url: /about/
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Research"
+    sublinks:
+      - title: "Publications"
+        url: /publications/
+      - title: "Projects"
+        url: /projects/
+
+  - title: "Blog"
+    url: /blog/
 
 # Dimensions
 max_width: 930px
@@ -86,10 +107,10 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
-lsi: false # produce an index for related posts
+# blog_name: Research Notes # blog_name will be displayed in your blog page
+# blog_description: Thoughts on AI
+# permalink: /blog/:year/:title/
+# lsi: false # produce an index for related posts
 
 # Pagination
 pagination:
