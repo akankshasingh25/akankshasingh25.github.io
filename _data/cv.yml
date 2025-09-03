@@ -1,97 +1,85 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: BS-MS in Electrical Engineering and Computer Science
+      institution: Indian Institute of Science Education and Research, Bhopal, India
+      year: 2019-2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - CPI - 8.36/10
+        - Minor - Data Science and Engineering
+        - title: Relevant Coursework
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Data Science and Artificial Intelligence - Machine Learning, Deep Learning, Natural Language Processing, Computer Vision
+            - Computer Science - Data Structures, Algorithms
+            - Mathematics - Linear Algebra, Probability and Statistics, Calculus
+    - title: All India Senior School Certificate Examination (AISSCE)
+      institution: Delhi Public School, Bokaro Steel City, Jharkhand, India
+      year: 2018
       description:
-        - Description 1.
-        - Description 2.
+        - Percentage - 95.4%
+        - Subjects - Physics, Chemistry, Mathematics, English, Information Practices, Physical Education
+    - title: All India Secondary School Examination (AISSE)
+      institution: Delhi Public School, Bokaro Steel City, Jharkhand, India
+      year: 2016
+      description:
+        - CGPA - 10/10
+        - Subjects - English, Sanskrit, Mathematics, Science, Social Science
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Post-Baccalaureate Fellow
+      institution: Centre for Responsible AI (CeRAI), IIT Madras, India
+      year: 2024 - now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Supervisor - Prof. Balaraman Ravindran
+        - Leading the research and development of an explainable ensemble-based audio deepfake detection tool tailored to the Indian context, aimed at supporting fact-checkers, media organisations, and public-interest platforms.
+        - Chapter author of the "Grounding Responsible AI in Agriculture", a project in collaboration with Meta OpenLoop. The workexplores the current applications and associated risks of AI in agriculture, identifies key gaps in its development and deployment, and examines relevant policies, regulations, and legal frameworks. The paper emphasised the importance of responsible AI through actionable technical and policy recommendations, grounded in expert interviews and comprehensive research.
+    - title: External Master's Thesis Student
+      institution: Image Analysis and Biometrics Lab, Department of CSE, IIT Jodhpur, India
+      year: 2023-2024
       description:
-        - Description 1.
-        - Description 2.
+        - Supervisor - Prof. Mayank Vatsa & Prof. Richa Singh
+        - Created and curated a large (approx 1.3M samples) and diverse 26 generation techniques across 4 sets) bias-free benchmark multimodal multilingual deepfake dataset comprising identity-aware swaps and synthetic media.
+        - Performed qualitative experiments such as BRISQUE score for visual quality and FAD for audio quality. And benchmarked existing state-of-the-art unimodal (visual and audio) and multimodal deepfake detection models.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Women Post-Baccalaureate Fellow, , Research Fellowship, CeRAI, IIT Madras
+    - year: 2023
       items:
-        - Max Planck Medal
+        - Qualified for Assistant Professor, Subject - CSA, University Grants Commission - National Eligibility Test
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Fairness & Debiasing
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Evalaution of bias in models
+        - Mitigation strategies
+    - title: Model Editing
       items:
-        - Description 1.
-        - Description 2.
+        - Unlearning
+        - Continual Learning
+    - title: Misinformation
+      items:
+        - Deepfake Detection - Audio, Vision, Text and Multimodal
+        - Spread and quantification of misinformation
+    - title: Public Policy
+      items:
+        - AI for Social Good
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Travelling, Running, Trekking, Gymming
