@@ -196,10 +196,12 @@ ul.task-list input[type="checkbox"] {
   width: 100%;
 
   .more-info {
-    margin-bottom: 5px;
-    margin-top: 5px;
+    margin-bottom: 10px;
+    margin-top: 0px;
     font-family: monospace;
-
+    font-size: 1rem;
+    line-height: 1;
+    text-align: center;
     p {
       display: inline-block;
       margin: 0;
@@ -438,7 +440,10 @@ ul.task-list input[type="checkbox"] {
   }
 
   .contact-note {
+    margin-top: 0px;
     font-size: 0.8rem;
+    margin-bottom: 30px;
+    text-align: center; 
   }
 }
 
