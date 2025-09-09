@@ -199,6 +199,17 @@ ul.task-list input[type="checkbox"] {
     max-width: 100%;
     height: auto;
     display: block;
+
+    // Add responsiveness for smaller screens
+    @media (max-width: 768px) { // Tablet and smaller
+      max-width: 150px; // Adjust image size for tablets
+      margin: 0 auto; // Center the image
+    }
+
+    @media (max-width: 480px) { // Mobile
+      max-width: 100px; // Adjust image size for mobile
+      margin: 0 auto; // Center the image
+    }
   }
 
   .more-info {
@@ -749,10 +760,17 @@ footer.sticky-bottom {
       margin-bottom: 1rem;
 
       .preview {
-        img {
-          max-width: 100%;
-          height: auto;
-          display: block;
+        max-width: 200px; // default on desktop
+        height: auto;
+        display: block;
+      
+        @media (max-width: 768px) { // tablets and smaller
+          max-width: 150px;
+        }
+      
+        @media (max-width: 480px) { // phones
+          max-width: 100px;
+          margin: 0 auto;
         }
       }
 
