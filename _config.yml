@@ -627,10 +627,8 @@ jsonresume:
   - work
   - education
   - publications
-  - projects
-  - volunteer
-  - awards
   - skills
-  - languages
+  - awards
+  - projects
   - interests
-  - references
+  - languages
