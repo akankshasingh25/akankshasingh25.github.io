@@ -27,6 +27,7 @@
       }
     ]
   },
+  
   "work": [
     {
       "name": "Centre for Responsible AI (CeRAI), IIT Madras, India",
@@ -83,22 +84,6 @@
         "courses": ["Physics, Chemistry, Mathematics, English, Information Practices, Physical Education"]
       }
   ],
-  "awards": [
-    {
-      "title": "Women Post-Baccalaureate Fellow",
-      "date": "2024",
-      "awarder": "Centre for Responsible AI (CeRAI), IIT Madras",
-      "url": "",
-      "summary": ""
-    },
-    {
-        "title": "Qualified for Assistant Professor, Subject - CSA",
-        "date": "2023",
-        "awarder": "University Grants Commission - National Eligibility Test (UGC-NET)",
-        "url": "",
-        "summary": ""
-    }
-  ],
 
   "publications": [
     {
@@ -109,6 +94,7 @@
       "summary": ""
     }
   ],
+
   "skills": [
     {
       "name": "Machine Learning & Deep Learning",
@@ -124,18 +110,6 @@
         "Slurm",
         "Docker/Kubernetes"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Hindi",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Bilingual proficiency",
-      "icon": ""
     }
   ],
 
@@ -176,6 +150,23 @@
       }
   ],
 
+  "awards": [
+    {
+      "title": "Women Post-Baccalaureate Fellow",
+      "date": "2024",
+      "awarder": "Centre for Responsible AI (CeRAI), IIT Madras",
+      "url": "",
+      "summary": ""
+    },
+    {
+        "title": "Qualified for Assistant Professor, Subject - CSA",
+        "date": "2023",
+        "awarder": "University Grants Commission - National Eligibility Test (UGC-NET)",
+        "url": "",
+        "summary": ""
+    }
+  ],
+
   "projects": [
     {
       "name": " Interpretable Deep Learning for Text Classification",
@@ -199,5 +190,18 @@
         "endDate": "",
         "url": ""
       }
-  ]
+  ],
+
+"languages": [
+  {
+    "language": "Hindi",
+    "fluency": "Native speaker",
+    "icon": ""
+  },
+  {
+    "language": "English",
+    "fluency": "Bilingual proficiency",
+    "icon": ""
+  }
+]
 }
