@@ -4,7 +4,7 @@
     "label": "Researcher",
     "image": "",
     "email": "akankshasingh.2540@gmail.com",
-    "phone": "+91 766 732 8057",
+    "phone": "(+91) 766 732 8057",
     "url": "https://akankshasingh25.github.io/",
     "summary": "Researcher in machine learning and deep learning with expertise in vision and speech. My broad goal is advancing responsible AI research, with specific focus on fairness, inclusion, explainability, societal and environmental impact.",
     "location": {
@@ -72,18 +72,7 @@
       "courses": ["Data Science and Artificial Intelligence - Machine Learning, Deep Learning, Natural Language Processing, Computer Vision",
       "Computer Science - Data Structures, Algorithms",
       "Mathematics - Linear Algebra, Probability and Statistics, Calculus"]
-    },
-    {
-        "institution": "Delhi Public School, Bokaro Steel City",
-        "location": "Bokaro, India",
-        "url": "",
-        "area": "Sciences Stream",
-        "studyType": "All India Senior School Certificate Examination (AISSCE)",
-        "startDate": "04-2016",
-        "endDate": "06-2018",
-        "score": "95.4%",
-        "courses": ["Physics, Chemistry, Mathematics, English, Information Practices, Physical Education"]
-      }
+    }
   ],
 
   "publications": [
