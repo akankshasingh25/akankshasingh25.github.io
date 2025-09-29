@@ -77,21 +77,7 @@ layout: default
       {% endif %}
     </header>
 
-    {% assign section_labels = 
-      {
-        "basics": "Profile",
-        "work": "Experience",
-        "education": "Academics",
-        "projects": "Research & Projects",
-        "publications": "Selected Publications",
-        "skills": "Technical Skills",
-        "awards": "Honors & Awards",
-        "languages": "Languages Known",
-        "interests": "Research Interests",
-        "volunteer": "Volunteering",
-        "references": "Referees"
-      } 
-    %}
+{% assign section_labels = "basics|Profile,work|Work Experience,education|Education,projects|Research Projects,publications|Publications,skills|Technical Skills,awards|Honors & Awards,languages|Languages Known,interests|Research Interests,volunteer|Volunteering,references|References" | split: "," %}
 
     <article>
       <div class="cv">
@@ -101,18 +87,18 @@ layout: default
               {% continue %}
             {% endunless %}
           {% endif %}
-          {% if data[0] == 'meta' or data[1].size == 0 %}
-            {% continue %}
-          {% endif %}
+          {% if data[0] == 'meta' or data[1].size == 0 %} {% continue %} {% endif %}
 
-          <!-- Anchor for scrollspy -->
           <a class="anchor" id="{{ data[0] }}"></a>
-
-          <!-- Section card -->
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">
-              {{ section_labels[data[0]] | default: data[0] | capitalize }}
-            </h3>
+            {% assign label = data[0] %}
+            {% for pair in section_labels %}
+              {% assign split_pair = pair | split: "|" %}
+              {% if split_pair[0] == data[0] %}
+                {% assign label = split_pair[1] %}
+              {% endif %}
+            {% endfor %}
+            <h3 class="card-title font-weight-medium">{{ label }}</h3>
 
             <div>
               {% case data[0] %}
