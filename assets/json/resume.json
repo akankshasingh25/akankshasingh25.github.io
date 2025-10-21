@@ -39,8 +39,9 @@
       "summary": "",
       "highlights": [
         "Supervisor - Prof. Balaraman Ravindran", 
-        "Leading the research and development of an explainable ensemble-based audio deepfake detection tool tailored to the Indian context, aimed at supporting fact-checkers, media organisations, and public-interest platforms.", 
-        "Chapter author of the Grounding Responsible AI in Agriculture, a project in collaboration with Meta OpenLoop. The work explores the current applications and associated risks of AI in agriculture, identifies key gaps in its development and deployment, and examines relevant policies, regulations, and legal frameworks. The paper emphasised the importance of responsible AI through actionable technical and policy recommendations, grounded in expert interviews and comprehensive research."
+        "Leading the research of grounding artifacts of audio deepfakes into linguistic features like phonology, morphology, syntax, and semantics to devise an explainable detection model by design, tailored to the Indian context, aimed at supporting fact-checkers, media organisations, and public-interest platforms.",
+        "Chapter author of the 'Grounding Responsible AI in Agriculture', a project in collaboration with Meta OpenLoop. The work explores the current applications and associated risks of AI in agriculture, identifies key gaps in its development and deployment, and examines relevant policies, regulations, and legal frameworks. The paper emphasised the importance of responsible AI through actionable technical and policy recommendations, grounded in expert interviews and comprehensive research.",
+        "Ongoing discussions on using a multi-agent system for multimodal deepfake detection in tandem with the RAG framework to provide additional support by fact-checking."
     ]
     },
 
@@ -163,7 +164,7 @@
       "summary": "",
       "highlights": [
         "Implemented an existing novel interpretability framework for text CNNs from scratch to linguistically motivated features. The proposed features are borrowed from existing work on text classification of shorter texts between fiction and non-fiction genres Brown Corpus).", 
-        " The exit criteria are to corroborate our interpretability results with the baseline results obtained from the existing work using logistic regression."],
+        "The exit criteria are to corroborate our interpretability results with the baseline results obtained from the existing work using logistic regression."],
       "startDate": "01-2023",
       "endDate": "03-2023",
       "url": ""
@@ -172,9 +173,9 @@
         "name": " Consumer Complaints: Text Classification Problem",
         "summary": "",
         "highlights": [
-            " Statistical and deep learning models were used to solve a multi-class nominal label classification problem",
-            "A vectorization and feature selection pipeline was used for statistical architecture, and hyperparameters were fed to a cross-validation grid search on 5 supervised learning models. Logistic regression gave the best results, accuracy of 85.9%.",
-            "For DLarchitecture, FFN, bi-directional LSTM, RNN, and transformers were used. Bi-directional LSTM gave the best results, with an accuracy of 86.5%."    
+            "Used machine learning and deep learning models for a multi-class nominal label classification",
+            "A vectorization and feature selection pipeline was used for ML architecture, and hyperparameters were fed to a cross-validation grid search on 5 supervised learning models. Logistic regression gave the best results, accuracy of 85.9%.",
+            "For DL architecture, FFN, bi-directional LSTM, RNN, and transformers were used. Bi-directional LSTM gave the best results, with an accuracy of 86.5%."    
         ],
         "startDate": "08-2022",
         "endDate": "11-2022",
