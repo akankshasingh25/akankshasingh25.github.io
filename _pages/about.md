@@ -28,10 +28,10 @@ announcements:
 ---
 <small><i>I am looking for PhD positions starting Fall 2026!</i></small>
 
-Hey,
+Hi,
 
-I am a Post-Baccalaureate Fellow at the [Centre for Responsible AI (CeRAI)](https://cerai.iitm.ac.in), IIT Madras, where I work under [Prof. B. Ravindran](https://scholar.google.co.in/citations?user=nGUcGrYAAAAJ&hl=en). My work focuses on detecting textual, audio, visual, and multimodal deepfakes, specifically in the Indian setting. Previously, I did my Master's thesis research at IIT Jodhpur in the [Image Analysis and Biometrics Lab (IAB)](https://iab-rubric.org/), under the supervision of [Prof. Richa Singh](https://scholar.google.co.in/citations?user=okqK5UAAAAAJ&hl=en) and [Prof. Mayank Vatsa](https://scholar.google.com/citations?hl=en&user=-DAxp-cAAAAJ&view_op=list_works&sortby=pubdate); the work on multimodal deepfake dataset contributed to a paper published at ICLR 2025.
+I am a Post-Baccalaureate Fellow at the [Centre for Responsible AI (CeRAI)](https://cerai.iitm.ac.in), IIT Madras, where I work under [Prof. B. Ravindran](https://scholar.google.co.in/citations?user=nGUcGrYAAAAJ&hl=en). My work focuses on detecting textual, audio, visual, and multimodal deepfakes, specifically in the Indian context. Previously, I did my external Master's thesis at IIT Jodhpur in the [Image Analysis and Biometrics Lab (IAB)](https://iab-rubric.org/), under the supervision of [Prof. Richa Singh](https://scholar.google.co.in/citations?user=okqK5UAAAAAJ&hl=en) and [Prof. Mayank Vatsa](https://scholar.google.com/citations?hl=en&user=-DAxp-cAAAAJ&view_op=list_works&sortby=pubdate); the work on multimodal deepfake dataset contributed to a paper published at ICLR 2025.
 
-I hold a BS-MS (Dual Degree) in Computer Science and Electrical Engineering from IISER Bhopal. My broader research interests lie in Responsible and Ethical AI, spanning fairness and debiasing, model editing and unlearning, deepfake detection across audio, vision, and multimodal media, multilingual and low-resource learning, and explainability.
+I hold a BS-MS (Dual Degree) in Computer Science and Electrical Engineering from IISER Bhopal. My broader research interests lie in Responsible AI, spanning fairness and debiasing, model editing and unlearning, deepfake detection across audio, vision, and multimodal media, multilingual and low-resource learning, and explainability.
 
-Outside of research, I am a sportsperson, and enjoy films, series, and traveling to explore new places and experiences.
+Outside of research, I am a dedicated sportsperson, thoroughly enjoy watching films, series, and traveling for new experiences.

@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 2
 cv_pdf: AkankshaSingh_CV.pdf # you can also use external links here
-description: You can download the CV from pdf button.
+description: You can download the CV from pdf icon.
 toc:
   sidebar: left
 ---
