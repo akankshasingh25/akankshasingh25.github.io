@@ -31,7 +31,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/syntheticmedia-and-deepfakes/";
+            window.location.href = "/blog/syntheticmedia-and-deepfakes/";
           
         },
       },{id: "post-multilingual-and-multicultural-evaluation-in-the-indian-context",
@@ -42,7 +42,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/multilingual-and-multicultural-llms/";
+            window.location.href = "/blog/multilingual-and-multicultural-llms/";
           
         },
       },{id: "news-joined-centre-for-responsible-ai-cerai-as-a-post-baccalaurete-fellow-under-the-supervision-of-prof-b-ravindran-on-august-1-2024-excited-for-new-beginnings",
