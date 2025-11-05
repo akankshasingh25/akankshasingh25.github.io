@@ -78,7 +78,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: What Couldn’t Fit in the Related Works section # blog_name will be displayed in your blog page
+blog_name: What Couldn't Fit in the Related Works section # blog_name will be displayed in your blog page
 blog_description: reflections and research writings — some technical, some not
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -249,8 +249,8 @@ jekyll-archives:
       tags: "/blog/:type/:name/"
       categories: "/blog/:type/:name/"
 
-# display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-# display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+display_tags: [CV, NLP, Speech, MultimodalAI, GenAI, LLMs, Multicultural, Multilingual, India] # these tags will be displayed on the front page of your blog
+display_categories: [InclusiveAI, Misinformation] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
