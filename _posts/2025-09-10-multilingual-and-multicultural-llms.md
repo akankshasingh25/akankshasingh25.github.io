@@ -2,7 +2,7 @@
 layout: post
 title: Multilingual and Multicultural Evaluation in the Indian Context
 date: 2025-09-10 16:40:16
-description: 
+description: This blog explores the evaluation of LLMs in India’s multilingual and multicultural context, highlighting both technical and cultural challenges. It discusses how most benchmarks remain English- or Western-centric, leading to cultural erasure when translated into Indic languages. The piece reviews emerging Indian benchmarks like IndicGenBench, BharatBench, and DOSA, which aim to capture linguistic diversity and cultural specificity. It also critiques gaps such as hybridism, translation bias, and the neglect of pragmatic cues like sarcasm or politeness. Finally, it proposes participatory, human-in-the-loop, and open-source evaluation frameworks to ensure that LLMs fairly and responsibly represent India’s many languages and worldviews.
 tags: NLP, LLMs, Multilingual, Multicultural, India
 categories: InclusiveAI
 
