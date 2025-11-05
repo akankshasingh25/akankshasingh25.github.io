@@ -79,7 +79,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: What Couldn't Fit in the Related Works section # blog_name will be displayed in your blog page
-blog_description: research writings — some technical, some not
+blog_description: Research Writings; Some Technical, Some Not.
 permalink: /blog/:title/
 lsi: false # produce an index for related posts
 
@@ -115,15 +115,15 @@ related_blog_posts:
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 # external_sources:
-#   - name: medium.com
+#   - name: Medium
 #     rss_url: https://medium.com/@akankshasingh25
 #   - name: Medium Blog
 #     posts:
 #       - url: https://medium.com/@akankshasingh25/multilingual-and-multicultural-evaluation-in-the-indian-context-4c57c897f8ca
 #         published_date: 2025-09-10
   
-#   - name: cerai.substack.com
-#     rss_url: https://cerai.substack.com/p
+#   - name: CeRAI Substack
+#     rss_url: https://cerai.substack.com
 #   - name: CeRAI Substack
 #     posts:
 #       - url: https://open.substack.com/pub/cerai/p/synthetic-media-and-deepfakes-explained?utm_campaign=post&utm_medium=web
