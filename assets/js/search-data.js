@@ -27,7 +27,7 @@ ninja.data = [{
         
           title: "Synthetic Media and Deepfakes - Explained for All",
         
-        description: "",
+        description: "The blog offers a clear, accessible overview of how synthetic media, especially deepfakes are created, detected, and used. It explains the underlying AI techniques like GANs, diffusion models, explores their ethical and social implications, and discusses both the creative and harmful potential of these technologies. The piece aims to help readers understand deepfakes beyond the hype, balancing technical insight with real-world context.",
         section: "Posts",
         handler: () => {
           
@@ -38,7 +38,7 @@ ninja.data = [{
         
           title: "Multilingual and Multicultural Evaluation in the Indian Context",
         
-        description: "",
+        description: "This blog explores the evaluation of LLMs in India’s multilingual and multicultural context, highlighting both technical and cultural challenges. It discusses how most benchmarks remain English- or Western-centric, leading to cultural erasure when translated into Indic languages. The piece reviews emerging Indian benchmarks like IndicGenBench, BharatBench, and DOSA, which aim to capture linguistic diversity and cultural specificity. It also critiques gaps such as hybridism, translation bias, and the neglect of pragmatic cues like sarcasm or politeness. Finally, it proposes participatory, human-in-the-loop, and open-source evaluation frameworks to ensure that LLMs fairly and responsibly represent India’s many languages and worldviews.",
         section: "Posts",
         handler: () => {
           
