@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-cv",
+  },{id: "nav-blog",
+          title: "Blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
+        },{id: "nav-cv",
           title: "CV",
           description: "You can download the CV from pdf icon.",
           section: "Navigation",
@@ -48,6 +55,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-attended-conclave-on-ai-governance-organised-by-cerai-iit-madras-on-oct-07-2025-presented-a-poster-of-ongoing-work-on-explainable-audio-deepfake-detection",
           title: 'Attended Conclave on AI Governance organised by CeRAI, IIT Madras on Oct, 07...',
+          description: "",
+          section: "News",},{id: "news-contributed-a-public-outreach-article-to-cerai-on-the-topic-of-synthetic-media-and-deepfakes-link-to-the-blog",
+          title: 'Contributed a public outreach article to CeRAI on the topic of synthetic media...',
           description: "",
           section: "News",},{
         id: 'social-scholar',
