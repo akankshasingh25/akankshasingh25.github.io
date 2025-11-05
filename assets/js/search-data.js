@@ -23,7 +23,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-joined-centre-for-responsible-ai-cerai-as-a-post-baccalaurete-fellow-under-the-supervision-of-prof-b-ravindran-on-august-1-2024-excited-for-new-beginnings",
+        },{id: "post-synthetic-media-and-deepfakes-explained-for-all",
+        
+          title: "Synthetic Media and Deepfakes - Explained for All",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/syntheticmedia-and-deepfakes/";
+          
+        },
+      },{id: "post-multilingual-and-multicultural-evaluation-in-the-indian-context",
+        
+          title: "Multilingual and Multicultural Evaluation in the Indian Context",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/multilingual-and-multicultural-llms/";
+          
+        },
+      },{id: "news-joined-centre-for-responsible-ai-cerai-as-a-post-baccalaurete-fellow-under-the-supervision-of-prof-b-ravindran-on-august-1-2024-excited-for-new-beginnings",
           title: 'Joined Centre for Responsible AI (CeRAI) as a Post-Baccalaurete Fellow under the supervision...',
           description: "",
           section: "News",},{id: "news-graduated-from-iiser-bhopal-with-a-bs-ms-degree-on-august-13-2024",
