@@ -45,6 +45,17 @@ ninja.data = [{
             window.location.href = "/blog/multilingual-and-multicultural-llms/";
           
         },
+      },{id: "post-launch-of-report-and-roundtable-discussions-on-healthcare-and-agriculture",
+        
+          title: "Launch of Report and Roundtable Discussions on Healthcare and Agriculture",
+        
+        description: "On 18th March 2025 Boston Consulting Group launched their report titled &#39;Unlocking AI’s Potential in India:&#39; Transforming Agriculture and Healthcare&#39; during a closed-door event. The report aims to guide organizations to adopt and integrate AI in critical areas of healthcare and agriculture. The launch event organized by CeRAI and Google brought together key stakeholders from government, industry, academia, and civil society.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/BCG-report-launch/";
+          
+        },
       },{id: "news-joined-centre-for-responsible-ai-cerai-as-a-post-baccalaurete-fellow-under-the-supervision-of-prof-b-ravindran-on-august-1-2024-excited-for-new-beginnings",
           title: 'Joined Centre for Responsible AI (CeRAI) as a Post-Baccalaurete Fellow under the supervision...',
           description: "",
