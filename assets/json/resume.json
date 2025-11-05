@@ -39,9 +39,9 @@
       "summary": "",
       "highlights": [
         "Supervisor - Prof. Balaraman Ravindran", 
-        "Leading the research of grounding artifacts of audio deepfakes into linguistic features like phonology, morphology, syntax, and semantics to devise an explainable detection model by design, tailored to the Indian context, aimed at supporting fact-checkers, media organisations, and public-interest platforms.",
-        "Chapter author of the 'Grounding Responsible AI in Agriculture', a project in collaboration with Meta OpenLoop. The work explores the current applications and associated risks of AI in agriculture, identifies key gaps in its development and deployment, and examines relevant policies, regulations, and legal frameworks. The paper emphasised the importance of responsible AI through actionable technical and policy recommendations, grounded in expert interviews and comprehensive research.",
-        "Ongoing discussions on using a multi-agent system for multimodal deepfake detection in tandem with the RAG framework to provide additional support by fact-checking."
+        "Leading the research on grounding artefacts of audio deepfakes into linguistic and acoustic features, speech and non-speech, phonetics, phonology, morphology, syntax, and semantics to develop an explainable detection model by design, tailored to the Indian context.",
+        "At the initial discussion stage of the project on multi-agent systems for multimodal deepfake detection, in tandem with the RAG framework to provide additional support through fact-checking.",
+        "Chapter author of the 'Grounding Responsible AI in Agriculture', a project in collaboration with Meta OpenLoop. The work explores current applications and associated risks of AI in agriculture, identifies key gaps in its development and deployment, and examines relevant policies, regulations, and legal frameworks. The paper emphasises the importance of responsible AI through actionable technical and policy recommendations, grounded in expert interviews and comprehensive analysis research."
     ]
     },
 
