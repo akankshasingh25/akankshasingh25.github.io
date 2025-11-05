@@ -79,8 +79,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: What Couldn't Fit in the Related Works section # blog_name will be displayed in your blog page
-blog_description: reflections and research writings — some technical, some not
-permalink: /blog/:year/:title/
+blog_description: research writings — some technical, some not
+permalink: /blog/:title/
 lsi: false # produce an index for related posts
 
 # Pagination
@@ -116,11 +116,18 @@ related_blog_posts:
 # you can display them in your blog by adding a link to the RSS feed.
 # external_sources:
 #   - name: medium.com
-#     rss_url: https://medium.com/@akankshasingh25/feed
-  # - name: Google Blog
-  #   posts:
-  #     - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-  #       published_date: 2024-05-14
+#     rss_url: https://medium.com/@akankshasingh25
+#   - name: Medium Blog
+#     posts:
+#       - url: https://medium.com/@akankshasingh25/multilingual-and-multicultural-evaluation-in-the-indian-context-4c57c897f8ca
+#         published_date: 2025-09-10
+  
+#   - name: cerai.substack.com
+#     rss_url: https://cerai.substack.com/p
+#   - name: CeRAI Substack
+#     posts:
+#       - url: https://open.substack.com/pub/cerai/p/synthetic-media-and-deepfakes-explained?utm_campaign=post&utm_medium=web
+#         published_date: 2025-10-31
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -246,9 +253,9 @@ jekyll-archives:
     # enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
     enabled: []
     permalinks:
-      year: "/blog/:year/"
-      tags: "/blog/:type/:name/"
-      categories: "/blog/:type/:name/"
+      # year: "/blog/:year/"
+      # tags: "/blog/:type/:name/"
+      # categories: "/blog/:type/:name/"
 
 # display_tags: [CV, NLP, Speech, MultimodalAI, GenAI, LLMs, Multicultural, Multilingual, India] # these tags will be displayed on the front page of your blog
 # display_categories: [InclusiveAI, Misinformation] # these categories will be displayed on the front page of your blog
