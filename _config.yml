@@ -79,7 +79,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: What Couldn't Fit in the Related Works section # blog_name will be displayed in your blog page
-blog_description: Research Writings; Some Technical, Some Not.
+blog_description: Research Writings; some technical, some not.
 permalink: /blog/:title/
 lsi: false # produce an index for related posts
 
