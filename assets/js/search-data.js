@@ -92,6 +92,9 @@ ninja.data = [{
           section: "News",},{id: "news-contributed-a-public-outreach-article-to-cerai-on-the-topic-of-synthetic-media-and-deepfakes-link-to-the-blog",
           title: 'Contributed a public outreach article to CeRAI on the topic of synthetic media...',
           description: "",
+          section: "News",},{id: "news-attend-the-highly-enriching-event-tiacon-2025-an-event-on-information-amp-amp-trust-in-the-ai-age-hosted-by-trusted-information-alliance-at-the-india-habitat-centre-new-delhi-on-nov-6-2025",
+          title: 'Attend the highly enriching event TIACON 2025, an event on Information &amp;amp;amp; Trust...',
+          description: "",
           section: "News",},{
         id: 'social-scholar',
         title: 'Google Scholar',
