@@ -77,9 +77,6 @@ ninja.data = [{
           section: "News",},{id: "news-attended-misinfocon-india-a-two-day-cross-disciplinary-conference-bringing-together-technology-policy-media-design-professionals-and-learners-to-explore-and-address-the-growing-challenges-of-misinformation-in-india-at-thoughtworks-bengaluru-organised-by-tattle-and-hacks-hackers-on-march-22-23-2025",
           title: 'Attended MisinfoCon India, a two-day cross-disciplinary conference bringing together technology, policy, media, design...',
           description: "",
-          section: "News",},{id: "news-attended-the-iclr-2025-in-singapore-from-apr-23-29-2025-and-presented-my-first-poster-slides-for-the-paper-can-be-found-here",
-          title: 'Attended the ICLR 2025 in Singapore from Apr 23-29, 2025 and presented my...',
-          description: "",
           section: "News",},{id: "news-attended-microsoft-research-msr-india-academic-summit-2025-held-in-bengaluru-on-june-23-25-2025-an-event-aimed-at-strengthening-ties-between-the-indian-academic-community-and-researchers-at-msr-india",
           title: 'Attended Microsoft Research (MSR) India Academic Summit 2025 held in Bengaluru on June...',
           description: "",
@@ -92,8 +89,13 @@ ninja.data = [{
           section: "News",},{id: "news-contributed-a-public-outreach-article-to-cerai-on-the-topic-of-synthetic-media-and-deepfakes-link-to-the-blog",
           title: 'Contributed a public outreach article to CeRAI on the topic of synthetic media...',
           description: "",
-          section: "News",},{id: "news-attend-the-highly-enriching-event-tiacon-2025-an-event-on-information-amp-amp-trust-in-the-ai-age-hosted-by-trusted-information-alliance-at-the-india-habitat-centre-new-delhi-on-nov-6-2025",
-          title: 'Attend the highly enriching event TIACON 2025, an event on Information &amp;amp;amp; Trust...',
+          section: "News",},{id: "news-",
+          title: '',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_14/";
+            },},{id: "news-attended-the-iclr-2025-in-singapore-from-apr-23-29-2025-and-presented-my-first-poster-slides-for-the-paper-can-be-found-here",
+          title: 'Attended the ICLR 2025 in Singapore from Apr 23-29, 2025 and presented my...',
           description: "",
           section: "News",},{
         id: 'social-scholar',
