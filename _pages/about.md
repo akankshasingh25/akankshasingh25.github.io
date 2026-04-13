@@ -26,7 +26,7 @@ announcements:
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #   limit: 3 # leave blank to include all the blog 
 ---
-<small><i>I am looking for PhD positions starting Fall 2026!</i></small>
+<small><i>I am actively looking for research positions while I am continually applying for PhD positions in Europe!</i></small>
 
 Hi,
 
@@ -34,4 +34,4 @@ I am a <b>Post-Baccalaureate Fellow</b> at the [Centre for Responsible AI (CeRAI
 
 I hold a BS-MS (Dual Degree) in Computer Science and Electrical Engineering from IISER Bhopal. My broader research interests lie in <b>Responsible AI</b>, spanning fairness and debiasing, model editing and unlearning, deepfake detection across audio, vision, and multimodal media, multilingual and low-resource learning, and explainability.
 
-Outside of research, I am a dedicated sportsperson, thoroughly enjoy watching films, series, and traveling for new experiences.
+Outside of research, I am a "fitness freak", recently did my first official 10k at Bengaluru, India and a half-marathon in Ghent, Belgium. I have also done couple of Himalayan treks (upto 15000ft). I thoroughly enjoy watching films and series, and occasionally write reviews. Lastly, like many others I live for traveling for new experiences. Will add a new page on my side-quests soon!
