@@ -6,13 +6,13 @@
     "email": "akankshasingh.2540@gmail.com",
     "phone": "(+91) 766 732 8057",
     "url": "https://akankshasingh25.github.io/",
-    "summary": "Researcher in machine learning and deep learning with expertise in vision and speech. My broad goal is advancing responsible AI research, with specific focus on fairness, inclusion, explainability, societal and environmental impact.",
+    "summary": "Researcher in machine learning, with expertise in deep learning , vision and speech. My broad goal is advancing responsible AI research, with specific focus on fairness, inclusion, explainability, privacy and societal impact.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Chennai",
+      "city": "Bengaluru",
       "countryCode": "IN",
-      "region": "Tamil Nadu"
+      "region": "Karnataka"
     },
 
     "profiles": [
@@ -35,12 +35,13 @@
       "position": "Post-Baccalaureate Fellow",
       "url": "https://cerai.iitm.ac.in/",
       "startDate": "08-2024",
-      "endDate": "Present",
+      "endDate": "03-2026",
       "summary": "",
       "highlights": [
         "Supervisor - Prof. Balaraman Ravindran", 
-        "Leading the research on grounding artefacts of audio deepfakes into linguistic and acoustic features, speech and non-speech, phonetics, phonology, morphology, syntax, and semantics to develop an explainable detection model by design, tailored to the Indian context.",
-        "At the initial discussion stage of the project on multi-agent systems for multimodal deepfake detection, in tandem with the RAG framework to provide additional support through fact-checking.",
+        "Research on failure modes - high false positive rate, real-class collapse, dataset and training bias, poor generalisation - of audio deepfake detection and proposal of deployment-ready evaluation framework based on cost-based selective classification.",
+        "At the discussion stage of the project on multi-agent systems for multimodal deepfake detection, in tandem with the RAG framework to provide additional support through fact-checking.",
+        "Research on explainable audio deepfake detector using linguistic-motivated artefacts.",
         "Chapter author of the 'Grounding Responsible AI in Agriculture', a project in collaboration with Meta OpenLoop. The work explores current applications and associated risks of AI in agriculture, identifies key gaps in its development and deployment, and examines relevant policies, regulations, and legal frameworks. The paper emphasises the importance of responsible AI through actionable technical and policy recommendations, grounded in expert interviews and comprehensive analysis research."
     ]
     },
