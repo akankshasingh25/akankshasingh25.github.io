@@ -98,7 +98,7 @@ ninja.data = [{
           section: "News",},{id: "news-volunteered-at-the-conclave-on-safe-and-trusted-ai-a-public-event-being-hosted-along-with-the-hybrid-meeting-of-the-safe-amp-amp-trusted-ai-working-group-under-the-india-ai-impact-summit-2026-is-being-organized-by-the-centre-for-responsible-ai-cerai-iit-madras-on-dec-11-2025",
           title: 'Volunteered at the Conclave on Safe and Trusted AI, a public event being...',
           description: "",
-          section: "News",},{id: "news-attended-the-winter-school-on-foundation-models-fomo-2026-organised-by-ellis-elias-elliot-to-be-held-at-tolhuistuin-amsterdam-from-march-24-27-2026",
+          section: "News",},{id: "news-attended-the-winter-school-on-foundation-models-fomo-2026-organised-by-ellis-elias-elliot-held-at-tolhuistuin-amsterdam-from-march-24-27-2026",
           title: 'Attended the Winter School on Foundation Models FoMo 2026, organised by ELLIS ELIAS...',
           description: "",
           section: "News",},{
